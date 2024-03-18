@@ -1,2 +1,2 @@
-# -EEE-CS-AI-24
+# IEEE-CS-AI-24
 AI
